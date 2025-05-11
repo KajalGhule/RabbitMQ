@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "ShipmentService.ShipmentController",
+    "Method": "TrackShipment",
+    "RelativePath": "Shipment/track",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "shipment",
+        "Type": "ShipmentService.Shipment",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
